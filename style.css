@@ -125,14 +125,17 @@ a1:visited {
 .ti1 {
   width: 150px;
   color: white;
+  font-size: 25px;
 }
 .ti2 {
   width: 200px;
   color: white;
+  font-size: 25px;
 }
 .ti3 {
-  width: 150px;
+  width: 300px;
   color: white;
+  font-size: 25px;
 }
 .ti4 {
   width: 400px;
